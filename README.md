@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Snehal Vabale
 
-🚀 **DevOps Engineer** | Cloud • Kubernetes • CI/CD • Terraform • GCP • AWS
+👨‍💻 DevOps Engineer | 5+ years of experience in AWS, GCP, Kubernetes, and CI/CD pipelines
 
 🔧 Focused on building scalable infrastructure, implementing secure DevOps pipelines, and streamlining deployments across cloud-native environments.
 
