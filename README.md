@@ -40,7 +40,7 @@
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/snehal-vabale)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/snehal-vabale-a52681347)
 - 💼 Portfolio: *(Coming soon)*
 
 ---
